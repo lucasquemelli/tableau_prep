@@ -69,3 +69,8 @@ This is a repository where I publish my studies with Tableau Prep
 4. Renomeamos a coluna GENERO_NOME apenas para GENERO:
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/81119854/208163569-efcafae7-6374-42c1-9a13-82e98560a755.png">
+
+5. Agora criamos mais um fluxograma de limpeza para preparar os dados para a Tabela Cidades, onde vamos manter apenas a cidade e o estado:
+
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/81119854/208164935-e4390a26-8263-4c45-b367-3c74ce0efd37.png">
+
