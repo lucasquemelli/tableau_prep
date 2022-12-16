@@ -83,3 +83,7 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/81119854/208165931-8cad3ce5-ba53-4c2b-b18e-dbc704e296a2.png">
 
 <img width="1585" alt="image" src="https://user-images.githubusercontent.com/81119854/208166032-07816f03-a14d-4feb-87cc-ff2822c7e675.png">
+
+7. De forma similar, criamos um fluxograma para agrupar apenas os estados:
+
+<img width="1113" alt="image" src="https://user-images.githubusercontent.com/81119854/208167274-f8baa797-5185-4f64-ad57-856f3ab68d0a.png">
