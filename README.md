@@ -184,5 +184,5 @@ This is a repository where I publish my studies with Tableau Prep
 
 - Criamos um campo calculado com o cálculo que desejamos.
 
-<img width="843" alt="image" src="https://user-images.githubusercontent.com/81119854/208204811-32000e55-d330-4033-a2d2-7e13380953e4.png">
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/81119854/208204886-f4e3f44a-6efb-4671-816b-4a32f2cd6797.png">
 
