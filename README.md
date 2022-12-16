@@ -106,6 +106,11 @@ This is a repository where I publish my studies with Tableau Prep
 
 # Filtrando dados
 
-- Vamos retirar os registros em que tamanho é igual a 1 L. Pelas estatísticas, nós temos 5 registros iguais a 1 L.
+- Vamos retirar os registros em que o tamanho é igual a 1 L. Pelas estatísticas, nós temos 5 registros iguais a 1 L.
 
 <img width="1595" alt="image" src="https://user-images.githubusercontent.com/81119854/208194986-1e175d38-7a08-4b16-8383-23b3aba9e9ae.png">
+
+- Para retirar o valor de 1 L, basta clicar sobre esse valor na coluna TAMANHO e excluir:
+
+<img width="1157" alt="image" src="https://user-images.githubusercontent.com/81119854/208196218-b023e323-c4f6-434a-92e4-21f6dc701825.png">
+
