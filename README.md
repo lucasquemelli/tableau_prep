@@ -98,3 +98,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="781" alt="image" src="https://user-images.githubusercontent.com/81119854/208174747-42b0fd90-5304-494b-9f1f-52907e9e205a.png">
 
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/81119854/208175778-c68a8b4a-5087-4be3-8cba-7e9e7f08a25c.png">
+
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/81119854/208175836-b13b81ae-43d8-4a85-adb6-a83426309f3e.png">
+
+<img width="844" alt="image" src="https://user-images.githubusercontent.com/81119854/208175899-7614b338-9908-401d-be3a-f6bbf4698764.png">
