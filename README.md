@@ -21,3 +21,5 @@ This is a repository where I publish my studies with Tableau Prep
 3. O Tableau tem recomendações automáticas. Nesse caso, ele sugere alterar os campos cidade e estado para o tipo geográfico. Para o Rio de Janeiro, ainda só vamos acatar a recomendação de estado, porque ainda precisamos padronizar a escrita da cidade. 
 
 <img width="1456" alt="image" src="https://user-images.githubusercontent.com/81119854/208111270-2b07f733-909e-4a86-abfb-1b4fd4c1d226.png">
+
+- Nem sempre as recomendações do Tableau são aplicáveis. É importante analisar antes de acatá-las. 
