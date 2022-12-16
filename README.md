@@ -114,3 +114,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="1157" alt="image" src="https://user-images.githubusercontent.com/81119854/208196218-b023e323-c4f6-434a-92e4-21f6dc701825.png">
 
+# Inserir fluxo
+
+- Com o botão direito do mouse: inserir fluxo.
+
+<img width="1578" alt="image" src="https://user-images.githubusercontent.com/81119854/208197011-bd532fa2-6627-4b1d-a35c-03c30928db78.png">
