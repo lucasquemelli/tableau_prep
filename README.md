@@ -87,3 +87,7 @@ This is a repository where I publish my studies with Tableau Prep
 7. De forma similar, criamos um fluxograma para agrupar apenas os estados:
 
 <img width="1113" alt="image" src="https://user-images.githubusercontent.com/81119854/208167274-f8baa797-5185-4f64-ad57-856f3ab68d0a.png">
+
+8. Agora criamos uma tabela apenas para clientes, sem os estados:
+
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/81119854/208168528-f363c8a3-01e2-409d-9afb-3b49a1e98694.png">
