@@ -116,6 +116,10 @@ This is a repository where I publish my studies with Tableau Prep
 
 # Inserir fluxo
 
-- Com o botão direito do mouse: inserir fluxo.
+- Vamos inserir o fluxo de produtos e o fluxo de clientes no fluxo de itens, notas e vendedores. Com o botão direito do mouse: inserir fluxo.
 
 <img width="1578" alt="image" src="https://user-images.githubusercontent.com/81119854/208197011-bd532fa2-6627-4b1d-a35c-03c30928db78.png">
+
+- Resultado:
+
+<img width="1182" alt="image" src="https://user-images.githubusercontent.com/81119854/208197260-faf4d5f5-1a2e-4b2a-a67f-60fa0236e584.png">
