@@ -36,3 +36,4 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/81119854/208117495-1a507739-6874-4702-90eb-a5807a8de6bf.png">
 
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/81119854/208117653-19717586-db0a-46f8-bebd-b415e6ee7a5c.png">
