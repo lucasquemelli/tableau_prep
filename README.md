@@ -37,3 +37,18 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/81119854/208117495-1a507739-6874-4702-90eb-a5807a8de6bf.png">
 
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/81119854/208117653-19717586-db0a-46f8-bebd-b415e6ee7a5c.png">
+
+6. Aplicando UNIÃO das tabelas. Basta arrastar um dos fluxos limpos para cima do outro fluxo limpo. Assim, teremos as opções: união de linhas e união de colunas. Nesse caso, escolhemos a união de linhas.
+
+<img width="970" alt="image" src="https://user-images.githubusercontent.com/81119854/208121704-a5f01cab-3b64-4465-9553-99476b5120df.png">
+
+- Ao fazer a união, nós temos alguns campos não correspondentes. Esses são campos que existem em uma tabela mas não existem na outra. 
+
+- Para corrigir, primeiro vamos na tabela limpa do Rio de Janeiro e vamos excluir o campo cidade. 
+
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/81119854/208122061-66775658-dfd9-4e66-9805-e4761fd5a212.png">
+
+- Agora vamos para a tabela união e clicamos sobre a caixa "mostrar apenas campos não correspondentes". 
+
+<img width="858" alt="image" src="https://user-images.githubusercontent.com/81119854/208122380-8e4edea1-0aca-451f-b9f1-06f02c117174.png">
+
