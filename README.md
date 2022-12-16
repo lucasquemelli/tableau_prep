@@ -133,3 +133,24 @@ This is a repository where I publish my studies with Tableau Prep
 - A gente pode escolher o tipo de JOIN simplesmente clicando sobre o diagrama abaixo abaixo e selecionando o JOIN que desejamos. Nesse caso foi INNER JOIN.
 
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/81119854/208199511-6bc3ebcc-f7a2-45de-b55c-8e9bb354f101.png">
+
+# Limpeza da tabela Notas e Itens
+
+1. Remover colunas duplicadas.
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/81119854/208201485-58cd2257-a62a-4fc3-95a0-424259dcc1e9.png">
+
+2. Transformação da data para mês e ano. 
+
+- Primeiro, transformamos o campo de data para cadeia de caracteres.
+
+<img width="228" alt="image" src="https://user-images.githubusercontent.com/81119854/208201785-6760c753-d190-4df8-9bcd-dc152ba24cdd.png">
+
+- Agora, basta criarmos um campo calculado para pegarmos o mês e o ano. Usamos a função MID, para retornar os 7 caracteres a partir do primeiro. 
+
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/81119854/208201998-23f2f509-2e4c-4b86-9641-dd51ed276436.png">
+
+<img width="837" alt="image" src="https://user-images.githubusercontent.com/81119854/208202326-89b4b2e0-3a02-4934-b615-cf8def357af5.png">
+
+
+ 
