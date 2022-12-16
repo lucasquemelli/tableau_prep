@@ -158,6 +158,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 # Agrupamento de preços 
 
+- Nós precisamos fazer agrupamento agora que mudamos a data. Existem muitas informações repetidas e agora precisamos agrupar pelo mês, não mais pelo dia. 
+
 - Nós não podemos fazer o agrupamento de preços porque a variável preço é por quantidade de produto. Assim, primeiro vamos calcular o agrupamento da quantidade e do faturamento (preço * quantidade), depois calcular o preço por quantidade agrupada. 
 
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/81119854/208203668-a7b887a6-bf04-486d-a435-d99d0237203d.png">
@@ -173,3 +175,5 @@ This is a repository where I publish my studies with Tableau Prep
 3. Criamos um fluxograma de agregação e arrastamos para "Campos agrupados" as dimensões e "Campos agregados" as métricas (quantidade, faturamento e o número de linhas) 
 
 <img width="1579" alt="image" src="https://user-images.githubusercontent.com/81119854/208204322-55a5ea38-55b6-4423-8028-b267c8cd7605.png">
+
+<img width="1585" alt="image" src="https://user-images.githubusercontent.com/81119854/208204416-06ef3d8f-17a6-47eb-ade8-aff2cbb35e6c.png">
