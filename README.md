@@ -177,3 +177,12 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="1579" alt="image" src="https://user-images.githubusercontent.com/81119854/208204322-55a5ea38-55b6-4423-8028-b267c8cd7605.png">
 
 <img width="1585" alt="image" src="https://user-images.githubusercontent.com/81119854/208204416-06ef3d8f-17a6-47eb-ade8-aff2cbb35e6c.png">
+
+4. Agora podemos criar uma variável preço já com valores agrupados. Basta dividir o faturamento agrupado pela quantidade agrupada.
+
+- Fazemos isso em um novo fluxograma de limpeza.
+
+- Criamos um campo calculado com o cálculo que desejamos.
+
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/81119854/208204811-32000e55-d330-4033-a2d2-7e13380953e4.png">
+
