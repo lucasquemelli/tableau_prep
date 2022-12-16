@@ -123,3 +123,9 @@ This is a repository where I publish my studies with Tableau Prep
 - Resultado:
 
 <img width="1182" alt="image" src="https://user-images.githubusercontent.com/81119854/208197260-faf4d5f5-1a2e-4b2a-a67f-60fa0236e584.png">
+
+# Junção de dados
+
+- Para fazer a junção, basta arrastar o fluxo de itens para o fluxo de notas e selecionar união de colunas. 
+
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/81119854/208198894-4c134808-3f74-4f43-ade8-80d939c775ca.png">
