@@ -78,3 +78,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/81119854/208165550-db3dbaed-50c2-4e42-b05f-cb0c33784429.png">
 
+- Para agregar, basta arrastar os campos cidade e estado para a região de campos agrupados:
+
+<img width="1140" alt="image" src="https://user-images.githubusercontent.com/81119854/208165931-8cad3ce5-ba53-4c2b-b18e-dbc704e296a2.png">
+
+<img width="1585" alt="image" src="https://user-images.githubusercontent.com/81119854/208166032-07816f03-a14d-4feb-87cc-ff2822c7e675.png">
