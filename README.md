@@ -23,3 +23,11 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="1456" alt="image" src="https://user-images.githubusercontent.com/81119854/208111270-2b07f733-909e-4a86-abfb-1b4fd4c1d226.png">
 
 - Nem sempre as recomendações do Tableau são aplicáveis. É importante analisar antes de acatá-las. 
+
+4. Vamos passar o campo gênero de M e F para masculino e feminino. 
+
+- Clicar no campo desejado e em seguida em criar campo calculado. 
+
+<img width="1302" alt="image" src="https://user-images.githubusercontent.com/81119854/208113819-f35b4260-bb4e-4b51-a9bc-a30bb6891bd6.png">
+
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/81119854/208115235-70f4aeb1-1416-4df1-926b-87c6c130aac6.png">
