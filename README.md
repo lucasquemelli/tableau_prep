@@ -156,4 +156,20 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/81119854/208202668-ac5e84cc-db9d-4b5d-a060-4203392bdbaf.png">
 
- 
+# Agrupamento de preços 
+
+- Nós não podemos fazer o agrupamento de preços porque a variável preço é por quantidade de produto. Assim, primeiro vamos calcular o agrupamento da quantidade e do faturamento (preço * quantidade), depois calcular o preço por quantidade agrupada. 
+
+<img width="1128" alt="image" src="https://user-images.githubusercontent.com/81119854/208203668-a7b887a6-bf04-486d-a435-d99d0237203d.png">
+
+1. FATURAMENTO:
+
+<img width="842" alt="image" src="https://user-images.githubusercontent.com/81119854/208203863-fbc74953-bd5a-4f23-9690-9147731fcc95.png">
+
+2. Removemos a coluna de preço.
+
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/81119854/208203949-18a21fd4-1248-4408-9765-5589a97bb4a2.png">
+
+3. Criamos um fluxograma de agregação e arrastamos para "Campos agrupados" as dimensões e "Campos agregados" as métricas (quantidade, faturamento e o número de linhas) 
+
+<img width="1579" alt="image" src="https://user-images.githubusercontent.com/81119854/208204322-55a5ea38-55b6-4423-8028-b267c8cd7605.png">
