@@ -52,3 +52,4 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/81119854/208122380-8e4edea1-0aca-451f-b9f1-06f02c117174.png">
 
+- Para tanto, basta arrastar o campo CIDADE_CORRIGIDA sobre o campo CIDADE. Assim, vai aparecer a mensagem "solte para mesclar os campos". 
