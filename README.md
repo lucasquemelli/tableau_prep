@@ -74,3 +74,7 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="859" alt="image" src="https://user-images.githubusercontent.com/81119854/208164935-e4390a26-8263-4c45-b367-3c74ce0efd37.png">
 
+6. Agora vamos criar mais uma etapa para agregar a tabela de cidades:
+
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/81119854/208165550-db3dbaed-50c2-4e42-b05f-cb0c33784429.png">
+
