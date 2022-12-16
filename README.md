@@ -53,3 +53,16 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="858" alt="image" src="https://user-images.githubusercontent.com/81119854/208122380-8e4edea1-0aca-451f-b9f1-06f02c117174.png">
 
 - Para tanto, basta arrastar o campo CIDADE_CORRIGIDA sobre o campo CIDADE. Assim, vai aparecer a mensagem "solte para mesclar os campos". Depois fazemos o mesmo para a coluna SEXO.
+
+# Separando tabelas
+
+1. Primeiro criamos mais um fluxograma de etapa de limpeza.
+
+2. Segundo, removemos a coluna Table Names:
+
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/81119854/208162339-d3668f78-4343-49c8-88ee-76cf8418363d.png">
+
+3. Terceiro, removemos a coluna SEXO:
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/81119854/208162660-03d1b191-7ae2-442e-bbd0-d143f40850a8.png">
+
