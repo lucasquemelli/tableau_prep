@@ -28,6 +28,6 @@ This is a repository where I publish my studies with Tableau Prep
 
 - Clicar no campo desejado e em seguida em criar campo calculado. 
 
-<img width="1302" alt="image" src="https://user-images.githubusercontent.com/81119854/208113819-f35b4260-bb4e-4b51-a9bc-a30bb6891bd6.png">
+<img width="1306" alt="image" src="https://user-images.githubusercontent.com/81119854/208115568-acf1a7cd-2e60-4efb-8e51-9a66b3941a87.png">
 
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/81119854/208115235-70f4aeb1-1416-4df1-926b-87c6c130aac6.png">
