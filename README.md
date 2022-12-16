@@ -129,3 +129,7 @@ This is a repository where I publish my studies with Tableau Prep
 - Para fazer a junção, basta arrastar o fluxo de itens para o fluxo de notas e selecionar união de colunas. 
 
 <img width="467" alt="image" src="https://user-images.githubusercontent.com/81119854/208198894-4c134808-3f74-4f43-ade8-80d939c775ca.png">
+
+- A gente pode escolher o tipo de JOIN simplesmente clicando sobre o diagrama abaixo abaixo e selecionando o JOIN que desejamos. Nesse caso foi INNER JOIN.
+
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/81119854/208199511-6bc3ebcc-f7a2-45de-b55c-8e9bb354f101.png">
