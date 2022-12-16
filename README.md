@@ -66,3 +66,6 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/81119854/208162660-03d1b191-7ae2-442e-bbd0-d143f40850a8.png">
 
+4. Renomeamos a coluna GENERO_NOME apenas para GENERO:
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/81119854/208163569-efcafae7-6374-42c1-9a13-82e98560a755.png">
