@@ -152,5 +152,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="837" alt="image" src="https://user-images.githubusercontent.com/81119854/208202326-89b4b2e0-3a02-4934-b615-cf8def357af5.png">
 
+- Como é uma string, podemos concatenar e depois transformar para data novamente:
+
+<img width="844" alt="image" src="https://user-images.githubusercontent.com/81119854/208202668-ac5e84cc-db9d-4b5d-a060-4203392bdbaf.png">
 
  
