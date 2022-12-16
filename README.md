@@ -103,3 +103,9 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/81119854/208175836-b13b81ae-43d8-4a85-adb6-a83426309f3e.png">
 
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/81119854/208175899-7614b338-9908-401d-be3a-f6bbf4698764.png">
+
+# Filtrando dados
+
+- Vamos retirar os registros em que tamanho é igual a 1 L.
+
+<img width="1595" alt="image" src="https://user-images.githubusercontent.com/81119854/208194986-1e175d38-7a08-4b16-8383-23b3aba9e9ae.png">
