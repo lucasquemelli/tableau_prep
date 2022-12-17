@@ -221,3 +221,21 @@ This is a repository where I publish my studies with Tableau Prep
 7. Para finalizar, criamos as tabelas finais, na parte de cima do fluxograma, padronizando os nomes dos campos de cada tabela.
 
 <img width="1658" alt="image" src="https://user-images.githubusercontent.com/81119854/208247304-48db79f9-8a3c-420c-a642-a674a2821b79.png">
+
+# Exportando dados das tabelas finais para CSV
+
+1. Procuramos pelo item "saída".
+
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/81119854/208247474-7ac7cb12-fd7c-4882-ae4b-955d4ccc96cb.png">
+
+2. Mudamos o tipo de saída para csv.
+
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/81119854/208247491-e6aeaa45-a7b1-4236-85bf-9feaf807f46a.png">
+
+3. Clicar em PROCURAR.
+
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/81119854/208247527-b774cae9-44c4-47ed-b6ad-26d22f47f4f8.png">
+
+4. Salvar.
+
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/81119854/208247566-2e61f508-3931-4404-b968-b431533d4342.png">
