@@ -198,8 +198,6 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/81119854/208244179-88bf3ab3-7b7d-4bbf-a6e2-2aa7591dbf57.png">
 
-<img width="1094" alt="image" src="https://user-images.githubusercontent.com/81119854/208204886-f4e3f44a-6efb-4671-816b-4a32f2cd6797.png">
-
 3. Agora vamos fazer uma união de colunas da tabela de produtos com a tabela fato.
 
 <img width="1575" alt="image" src="https://user-images.githubusercontent.com/81119854/208244350-e03be604-e41a-435c-88d2-ac3fdd14238d.png">
