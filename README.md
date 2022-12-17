@@ -212,3 +212,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/81119854/208245337-5fde966e-cc54-4f0a-a64b-41499b28ab4e.png">
 
+6. Fazendo a limpeza.
+
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/81119854/208245481-78fc2592-f1df-421b-8ba6-f8c88474d61d.png">
+
+- Note que assim conseguimos identificar que a cidade Rio de Janeiro deve ter seu nome padronizado em etapas futuras. Além disso, conseguimos observar que só existem pessoas do gênero masculino como clientes nessa cidade. 
