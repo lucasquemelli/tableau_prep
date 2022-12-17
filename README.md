@@ -186,3 +186,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/81119854/208204886-f4e3f44a-6efb-4671-816b-4a32f2cd6797.png">
 
+# Integridade da tabela Notas e Itens
+
+1. Vamos fazer a união, por colunas, da tabela de vendedores com a tabela de notas e itens.
+
+<img width="1174" alt="image" src="https://user-images.githubusercontent.com/81119854/208243780-82b37e6c-f968-4224-be21-f77a33daf2b0.png">
