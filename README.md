@@ -207,3 +207,8 @@ This is a repository where I publish my studies with Tableau Prep
 <img width="1575" alt="image" src="https://user-images.githubusercontent.com/81119854/208244806-85a3758a-e91e-41f1-aa25-1b992d8246b1.png">
 
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/81119854/208244912-ec298f36-4e5d-4f0e-b38d-c28d68ee3ed8.png">
+
+5. Agora vamos juntar cliente com a tabela acima. A união não foi automática. Visto que os campos codigo_cliente e CPF tem nomenclaturas diferentes, mas tratam da mesma informação. 
+
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/81119854/208245337-5fde966e-cc54-4f0a-a64b-41499b28ab4e.png">
+
