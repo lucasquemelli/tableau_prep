@@ -188,6 +188,19 @@ This is a repository where I publish my studies with Tableau Prep
 
 # Integridade da tabela Notas e Itens
 
-1. Vamos fazer a união, por colunas, da tabela de vendedores com a tabela de notas e itens.
+1. Vamos fazer a união, por colunas, da tabela de vendedores com a tabela de notas e itens (tabela fato).
 
 <img width="1174" alt="image" src="https://user-images.githubusercontent.com/81119854/208243780-82b37e6c-f968-4224-be21-f77a33daf2b0.png">
+
+2. Criamos uma etapa de limpeza para remover os campos a mais quando fizemos a união.
+
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/81119854/208244136-1d8c26b9-d0db-4a9a-83f4-a27b171b720b.png">
+
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/81119854/208244179-88bf3ab3-7b7d-4bbf-a6e2-2aa7591dbf57.png">
+
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/81119854/208204886-f4e3f44a-6efb-4671-816b-4a32f2cd6797.png">
+
+3. Agora vamos fazer uma união de colunas da tabela de produtos com a tabela fato.
+
+<img width="1575" alt="image" src="https://user-images.githubusercontent.com/81119854/208244350-e03be604-e41a-435c-88d2-ac3fdd14238d.png">
+
