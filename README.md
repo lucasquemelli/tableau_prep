@@ -218,6 +218,6 @@ This is a repository where I publish my studies with Tableau Prep
 
 - Note que assim conseguimos identificar que a cidade Rio de Janeiro deve ter seu nome padronizado em etapas futuras. Além disso, conseguimos observar que só existem pessoas do gênero masculino como clientes nessa cidade. 
 
-7. Para finalizar, criamos as tabelas finais padronizando os nomes dos campos.
+7. Para finalizar, criamos as tabelas finais, na parte de cima do fluxograma, padronizando os nomes dos campos de cada tabela.
 
 <img width="1658" alt="image" src="https://user-images.githubusercontent.com/81119854/208247304-48db79f9-8a3c-420c-a642-a674a2821b79.png">
