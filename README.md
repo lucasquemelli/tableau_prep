@@ -202,3 +202,8 @@ This is a repository where I publish my studies with Tableau Prep
 
 <img width="1575" alt="image" src="https://user-images.githubusercontent.com/81119854/208244350-e03be604-e41a-435c-88d2-ac3fdd14238d.png">
 
+4. Vamos fazer mais uma limpeza de campos. Agora da tabela resultante acima. Revemos: marca, tamanho, sabor, codigo_produto-1 e nome_produto.
+
+<img width="1575" alt="image" src="https://user-images.githubusercontent.com/81119854/208244806-85a3758a-e91e-41f1-aa25-1b992d8246b1.png">
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/81119854/208244912-ec298f36-4e5d-4f0e-b38d-c28d68ee3ed8.png">
